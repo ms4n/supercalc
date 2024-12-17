@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "name": "Hotel Booking - Luxury Suite", "costPrice": 15000, "markupPercentage": 12 },
+    { "name": "Flight Tickets - Business Class", "costPrice": 25000, "markupPercentage": 8 },
+    { "name": "Local Transportation", "costPrice": 3000, "markupPercentage": 15 },
+    { "name": "City Tour Guide", "costPrice": 2500, "markupPercentage": 20 },
+    { "name": "Adventure Sports Package", "costPrice": 8000, "markupPercentage": 25 },
+    { "name": "Restaurant Reservations", "costPrice": 5000, "markupPercentage": 18 },
+    { "name": "Museum Passes", "costPrice": 1500, "markupPercentage": 10 },
+    { "name": "Shopping Tour", "costPrice": 2000, "markupPercentage": 15 },
+    { "name": "Spa Treatment Package", "costPrice": 4000, "markupPercentage": 22 },
+    { "name": "Photography Session", "costPrice": 3500, "markupPercentage": 20 },
+    { "name": "Travel Insurance", "costPrice": 2000, "markupPercentage": 5 },
+    { "name": "Airport Transfer - Premium", "costPrice": 1800, "markupPercentage": 15 },
+    { "name": "Cultural Show Tickets", "costPrice": 2500, "markupPercentage": 12 },
+    { "name": "Yacht Tour", "costPrice": 12000, "markupPercentage": 30 },
+    { "name": "Private Chef Experience", "costPrice": 6000, "markupPercentage": 25 },
+    { "name": "Wine Tasting Tour", "costPrice": 3500, "markupPercentage": 18 },
+    { "name": "Helicopter City Tour", "costPrice": 15000, "markupPercentage": 35 },
+    { "name": "Personal Shopping Assistant", "costPrice": 2500, "markupPercentage": 20 }
+  ]
+} 
